@@ -1,2 +1,2 @@
-# Conferences-Database
-The whole documentation of our profect for DB assignment
+# Introduction to Databases
+## This repo contains our whole project documentation, some sql exercises and some ancillary materials
